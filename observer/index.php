@@ -1,6 +1,5 @@
 <?php
 include_once 'Observer.php';
-include_once 'Subject.php';
 //测试观察者模式
 
 $subject = new SubSubject();

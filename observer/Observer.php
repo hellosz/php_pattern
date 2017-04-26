@@ -24,8 +24,6 @@ class GiftObserver implements Observer{
 
 /**
  *观察者模式-主题接口
- * User: ntian
- * Date: 2017/4/24
  */
 interface Subject{
     //添加观察者

@@ -12,7 +12,7 @@ class SimpleFacory{
         if($type == A){
             $product = new ProductA;
         }elseif($type == B){
-        $product = new ProductB;
+            $product = new ProductB;
     }
         return $product;
     }
